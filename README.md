@@ -1,6 +1,6 @@
 # `ashish john`
 
-```text id="3u8f6g"
+```text
 web developer · builder
 ```
 
