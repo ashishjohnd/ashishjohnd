@@ -1,8 +1,6 @@
+# `ashish john`
 
-
-```text
-web developer · builder
-```
+`web developer · builder`
 
 ### ⚡ Tech
 
