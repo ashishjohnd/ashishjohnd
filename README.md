@@ -1,7 +1,7 @@
-
+# `ashish john`
 
 ```text id="x7kq2m"
-dev · build
+web developer · builder
 ```
 
 ### ⚡ Tech
@@ -10,7 +10,7 @@ dev · build
 
 ### 🧠 Into
 
-`Web Development` · `Automation` · `Open Source` · `Dev Tools` · `Problem Solving`
+`Web` · `Automation` · `Open Source` · `Dev Tools` · `Cloud`
 
 ### 🔗 Find me
 
