@@ -1,6 +1,6 @@
 # `ashish john`
 
-```text
+```text id="3u8f6g"
 web developer · builder
 ```
 
@@ -14,7 +14,6 @@ web developer · builder
 
 ### 🔗 Find me
 
-💼 **[linkedin.com/ashishjohnd](https://linkedin.com/ashishjohnd)**
-✉️ **[ashishajce@gmail.com](mailto:ashishajce@gmail.com)**
+[LinkedIn](https://linkedin.com/ashishjohnd) · [ashishajce@gmail.com](mailto:ashishajce@gmail.com)
 
 > `</> turning ideas into something that works`
