@@ -2,15 +2,15 @@
 
 `web developer · builder`
 
-### ⚡ Tech
+### `⚡ Tech`
 
 `PHP` · `JavaScript` · `Python` · `Linux` · `Git` · `MySQL` · `Bash` · `Node.js` · `React` · `Nginx`
 
-### 🧠 Into
+### `🧠 Into`
 
 `Web` · `Automation` · `Open Source` · `Dev Tools` · `Cloud`
 
-### 🔗 Find me
+### `🔗 Find me`
 
 [LinkedIn](https://linkedin.com/ashishjohnd) · [ashishajce@gmail.com](mailto:ashishajce@gmail.com)
 
