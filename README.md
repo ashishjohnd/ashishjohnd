@@ -1,7 +1,7 @@
 
 
 ```text id="x7kq2m"
-developer · builder
+dev · build
 ```
 
 ### ⚡ Tech
