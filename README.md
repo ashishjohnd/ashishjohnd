@@ -6,4 +6,4 @@
 
 `🔗 Find me` — [LinkedIn](https://linkedin.com/ashishjohnd) · [ashishajce@gmail.com](mailto:ashishajce@gmail.com)
 
-> `</> turning ideas into something that works`
+
