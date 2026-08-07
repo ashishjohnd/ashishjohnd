@@ -1,4 +1,5 @@
-`web developer · builder · MCA`
+
+`web developer · builder`
 
 `⚡ Tech` — `PHP` · `JavaScript` · `Python` · `C` · `Java` · `Linux` · `Git` · `MySQL` · `Bash` · `Node.js` · `React` · `Nginx`
 
