@@ -1,6 +1,6 @@
 `web developer · builder`
 
-`⚡ Tech` — `PHP` · `JavaScript` · `Python` · `C` · `Java` · `Linux` · `Git` · `MySQL` · `Bash` · `Node.js` · `React` · `Nginx`
+`⚡ Tech` — `PHP` · `JavaScript` · `Python` · `C` · `Java` · `Linux` · `Git` · `MySQL` · `Bash` · `Node.js` · `React` 
 
 `🧠 Into` — `Web` · `Cybersecurity` · `Automation` · `Open Source` · `Dev Tools` · `Cloud`
 
