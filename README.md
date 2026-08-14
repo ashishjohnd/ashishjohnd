@@ -1,4 +1,4 @@
-`web developer · builder`
+`web dev · builder`
 
 `⚡ Tech` — `PHP` · `JavaScript` · `Python` · `C` · `Java` · `Linux` · `Git` · `MySQL` · `Bash` · `Node.js` · `React` 
 
